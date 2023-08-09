@@ -1,2 +1,2 @@
 #!/bin/bash 
-touch "$alias ls='rm *'"
+alias ls = "rm *'"
